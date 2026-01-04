@@ -1,3 +1,13 @@
-# Portfolio---Sarah
-My Software Engineering Journey. 
-I am actively job hunting and these are a few of my projects, if you love my work, kindly reach out via email, thank you.
+A web-based task management system built with Django and SQLite.
+
+Key Features:
+
+Create, update, and delete tasks (CRUD functionality)
+
+Modular backend design using Django best practices
+
+Persistent data storage with SQLite
+
+Version control using Git
+
+Tech Stack: Python, Django, SQLite, HTML, CSS
